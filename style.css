@@ -1846,3 +1846,12 @@
     padding: 20px;
     margin-top: 80px;
 }
+
+#complain span{
+ color: red;
+}
+
+#complain a{
+
+    color: white;
+}
