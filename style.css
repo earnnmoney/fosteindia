@@ -1838,3 +1838,10 @@
    text-align: center;
    justify-content: center;
   }
+
+
+
+#complain{
+   text-align: center;
+   line-break: no-break;
+}
